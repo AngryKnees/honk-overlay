@@ -5,7 +5,7 @@ A honking horn Twitch overly inspired by a previous one by AntiMatterTape
 ---
  
 ## Usage
-Visit [this link](https://angryknees.github.io/honk-overlay/index.html).
+Visit [this link](https://angryknees.github.io/honk-overlay/).
 At the moment this repo is hardcoded to connect to https://twitch.tv/russ_money. To appropriate this for your own channel, you can fork this repo, change the channel name at the top of `src/index.js`, and configure Github Pages to serve the root directory.
 
 ## Build
